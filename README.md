@@ -8,3 +8,4 @@ PlayWright es una evolución de Puppeteer: sus creadores son los mismos. Obviame
 Puppeteer es una librería, más no una solución completa para automatización de pruebas, por lo que la mayoría de veces hay que usar CodeceptsJS o Jest.
 Ajustar Puppeteer para un framework de pruebas requiere de un alto conocimiento para desarrollar en JavaScript
 
+https://i.ibb.co/pKp9j6g/39dba709-15ca-4386-a82f-34a16743db0e.jpg
